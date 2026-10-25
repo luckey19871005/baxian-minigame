@@ -1,0 +1,9 @@
+{
+ "battle": {
+  "src": "audio/music-battle.mp3",
+  "loopStart": 17.013271,
+  "loopEnd": 126.49725,
+  "lufs": -16.0,
+  "bpm": 117.45
+ }
+}
